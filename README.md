@@ -31,5 +31,3 @@ Graphics and Display: Pygame's drawing functions and image loading capabilities 
 
 Conclusion:
 The Snake game project successfully demonstrated the capabilities of Pygame for developing interactive 2D games in Python. It provided an engaging and nostalgic gaming experience, showcasing fundamental game development concepts such as game loops, collision detection, and user input handling. The project's modular structure and clear separation of game components also highlighted the importance of structured programming and code organization in game development.
-
-This description provides an overview of a typical Snake game project developed using Pygame and Python. Actual implementations may vary based on specific design choices and additional features implemented by the developer.
